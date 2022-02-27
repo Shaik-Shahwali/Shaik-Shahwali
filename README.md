@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaik Shahwali, based in Hyderabad, India
 - 👀 I’m a Data Scientist with 2+ years of experience
-- 🌱 I’m currently working at NeuEra AI Software & Analytics
+- 🌱 I’m currently working at Fullstack Academy
 
 Email ID: shaiksw@gmail.com
 <!---
