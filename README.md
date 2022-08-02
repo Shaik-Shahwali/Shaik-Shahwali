@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaik Shahwali, based in Hyderabad, India
-- 👀 I’m a Data Scientist with 2+ years of experience
-- 🌱 I’m currently working at Fullstack Academy
+- 👀 I’m a Data Scientist with 3+ years of experience as a Data Scientist and Trainer
+- 🌱 I’m currently working at TechZone Academy for Training and Research
 
 Email ID: shaiksw@gmail.com
 <!---
